@@ -1,10 +1,11 @@
 .movieText {
    color: hotpink;
-   font-size: 24px;
+   font-size: 22px;
    text-align: left;
 }
 
 .movieHeading {
    color: turquoise;
-   font-size: 36px;
+   font-size: 24px;
+   text-align: left;
 }
